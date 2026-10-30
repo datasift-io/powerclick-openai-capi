@@ -1,5 +1,7 @@
 homepage: "https://powerclick.io"
 documentation: "https://github.com/datasift-io/powerclick-openai-capi#readme"
 versions:
+  - sha: 59bcfd2dfde14423d6912436618d738b5a0472c4
+    changeNotes: Adds the PowerClick icon.
   - sha: e86af4da1b7ed936e8b7dc6e2a9c273582436a70
     changeNotes: Initial release.
